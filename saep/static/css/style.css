@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0056b3;
+    display: flex;
+    padding: 15px;
+    justify-content: space-between;
+}
+
+.logo {
+    color: white;
+    padding: 15px;
+    font-size: 20px;
+}
+
+header li a {
+    text-decoration: none;
+    color: white;
+  
+}
+
+ul {
+    display: flex;
+    font-family: Arial,sans-serif;
+    font-size: 13px;
+    list-style: none;
+    padding: 15px;
+    gap: 15px;
+}
+
+button {
+    background-color: #0056b3;
+    padding: 6px 9px;
+    border-radius: 5px;
+    margin: 5px;
+    color: white;
+}
+
+input {
+    margin: 5px;
+    padding: 3px 9px;
+  
+}
+
+main {
+    padding: 4px;
+}
